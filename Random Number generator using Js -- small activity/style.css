@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#myButton{
+    padding: 5px 20px ;
+    font-size: 2.5em;
+    border-radius: 10px;
+}
+
+#myLabel{
+    margin: 300px;
+    font-size: 3em;
+}
